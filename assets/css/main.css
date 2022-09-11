@@ -856,8 +856,7 @@ input, select, textarea {
 		.icon > .label {
 			display: none;
 		}
-
-		.icon:before {
+	.icon:before {
 			line-height: inherit;
 		}
 
@@ -867,7 +866,7 @@ input, select, textarea {
 
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
-		}
+		} 
 
 /* Image */
 
@@ -1229,7 +1228,7 @@ input, select, textarea {
 				body.is-ie ul.grid-icons .icon:before {
 					line-height: 2.375;
 				}
-
+/*
 		ul.grid-icons > li {
 			-moz-flex-grow: 0;
 			-webkit-flex-grow: 0;
@@ -1356,11 +1355,11 @@ input, select, textarea {
 						display: none !important;
 					}
 
-		}
+		} */
 
 /* Contact Icons */
 
-	ul.contact-icons {
+	/* ul.contact-icons {
 		list-style: none;
 		padding-left: 0;
 	}
@@ -1407,7 +1406,7 @@ input, select, textarea {
 
 		ul.contact-icons.color4 > li:before {
 			color: #353865;
-		}
+		} */
 
 /* Table */
 
@@ -3687,3 +3686,4 @@ input, select, textarea {
 			}
 
 	}
+
